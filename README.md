@@ -2,4 +2,3 @@
 
 - 🔭 I’m currently working on Publical, a calendar as a service (CaaS 😁 ).
 - 🌱 I’m currently learning about [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) and [CQRS](https://de.wikipedia.org/wiki/Command-Query-Responsibility-Segregation).
-- 👯 I’m looking to collaborate on exciting projects to improve my coding skills and apply university knowledge.
